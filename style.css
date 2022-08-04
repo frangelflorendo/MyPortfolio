@@ -741,15 +741,15 @@ footer .right .icon .circle img:hover {
     }
 }
 
-@media (max-width:320px) {
+/* @media (max-width:320px) {
     .portfolio .work .left img,
     .portfolio .project .invert .left img {
-        /* width: 100%;
-        height: 100%; */
+        width: 100%;
+        height: 100%;
         width: 100%;
         height: 150px;
     }
-}
+} */
 
 @media (max-width:297px) {
     .max-width {
