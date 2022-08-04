@@ -648,6 +648,22 @@ footer .right .icon .circle img {
         padding: 0px 40px
     }
 }
+@media (max-width:550px){
+    .home .intro .content .text-1 {
+        font-size: 17px;
+    }
+    .home .intro .content .text-2 {
+        font-size: 47px;
+        line-height: 5rem;
+    }
+    .home .intro .content .text-3 {
+        font-size: 14px;
+    }
+    
+    
+    
+}
+
 
 @media (max-width:536px) {
     .home .intro .content .text-1 {
