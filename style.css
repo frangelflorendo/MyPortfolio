@@ -581,7 +581,12 @@ footer .right .icon .circle img {
         flex-basis: 100%;
     }
 }
-
+@media (max-width:724px){
+  .home .intro .content .text-2 {
+        font-size: 55px;
+        line-height: 5rem;
+    }
+}
 
 /*start mobile view*/
 
