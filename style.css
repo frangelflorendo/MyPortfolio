@@ -197,14 +197,19 @@ nav .menu ul li a {
     justify-content: center;
     position: relative;
     bottom: -140px;
+    cursor: pointer;
 }
 
 .home .circle img {
     text-align: center;
     height: 35px;
     margin: 20px;
+      transition: 0.2s ease-in-out;
 }
-
+.home .circle img:hover {
+    margin-top: 5px;
+    transition: 0.2s ease-in-out;
+}
 
 /* about */
 
@@ -525,13 +530,18 @@ footer .right .icon {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    cursor: pointer;
 }
 
 footer .right .icon .circle img {
     height: 25px;
     margin: 20px;
+      transition: 0.2s ease-in-out;
 }
-
+footer .right .icon .circle img:hover {
+    margin-top: 5px;
+    transition: 0.2s ease-in-out;
+}
 
 /*4k reso*/
 
