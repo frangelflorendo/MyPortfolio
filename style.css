@@ -169,7 +169,7 @@ nav .menu ul li a {
 .home .intro .content .text-2 {
     font-size: 80px;
     line-height: 7rem;
-    /* transition: 2s ease; */
+    transition: 2s ease;
 }
 
 .home .intro .content .text-3 {
