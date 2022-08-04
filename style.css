@@ -732,9 +732,9 @@ footer .right .icon .circle img:hover {
 }
 
 @media (max-width:360px) {
-    .max-width {
+/*     .max-width {
         padding: 0px 25px
-    }
+    } */
     .home .intro .content .text-3 {
         font-size: 11px;
         text-align: center;
