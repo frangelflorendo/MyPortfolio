@@ -376,6 +376,7 @@ nav .menu ul li a {
     line-height: 2em;
     font-size: 18px;
     color: #6e6e6e;
+    text-align:justify;
 }
 
 .portfolio .work .right hr {
