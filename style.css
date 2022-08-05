@@ -370,14 +370,17 @@ nav .menu ul li a {
 .portfolio .work .right .headings {
     margin-bottom: 30px;
     color: #313131;
+    font-size: 20px;
 }
 
 .portfolio .work .right .sub {
     line-height: 2em;
-    font-size: 18px;
+    /* font-size: 18px; */
+    font-size: 19px;
     color: #6e6e6e;
     text-align:justify;
 }
+
 
 .portfolio .work .right hr {
     margin: 25px 0px;
@@ -697,6 +700,18 @@ footer .right .icon .circle img:hover {
     .home .intro .content .text-3 {
         font-size: 12px;
     }
+    .portfolio .work .right .headings {
+    margin-bottom: 30px;
+    color: #313131;
+}
+
+.portfolio .work .right .sub {
+    line-height: 2em;
+    font-size: 18px;
+    color: #6e6e6e;
+    text-align:justify;
+}
+
 }
 
 @media (max-width:450px) {
