@@ -423,6 +423,14 @@ nav .menu ul li a {
     padding-bottom: 0;
 }
 
+/*Badge*/
+
+.badge .content p {
+    color: #6e6e6e;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 50px;
+}
 
 /*contact*/
 
